@@ -62,3 +62,5 @@ io.on('connection', (socket) => {
         sockesConnected = sockesConnected.filter(item => item != socket)
     })
 })
+
+module.exports = app
