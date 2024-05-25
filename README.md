@@ -1,1 +1,1 @@
-# Aplicação Node JS + Express de chat ao vivo, usando a tecnologia de Web Socket, para comunicação em tempo real entre os usuários
+Aplicação Node JS + Express de chat ao vivo, usando a tecnologia de Web Socket, para comunicação em tempo real entre os usuários
